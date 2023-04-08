@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/face-login/static/css/main.68ee3b6a.css",
+    "main.js": "/face-login/static/js/main.a9a96165.js",
+    "index.html": "/face-login/index.html",
+    "main.68ee3b6a.css.map": "/face-login/static/css/main.68ee3b6a.css.map",
+    "main.a9a96165.js.map": "/face-login/static/js/main.a9a96165.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68ee3b6a.css",
+    "static/js/main.a9a96165.js"
+  ]
+}
